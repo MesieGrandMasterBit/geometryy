@@ -1,0 +1,8 @@
+
+/*.o
+/*.txt
+!myfile.txt
+/*.exe
+*geometry
+/build
+/bin
